@@ -1,0 +1,7 @@
+open cmd 
+
+
+
+then write ->   ( cd "C:\bollywood movie recommender" )
+
+after that acess the readme file find a command like this ---   python -m streamlit run src/app_streamlit.py  
